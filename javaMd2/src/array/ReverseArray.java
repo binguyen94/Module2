@@ -3,7 +3,7 @@ package array;
 import java.util.Scanner;
 
 public class ReverseArray {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         int size;
         int[] array;
         Scanner scanner = new Scanner(System.in);
@@ -35,3 +35,4 @@ public class ReverseArray {
         }
     }
 }
+

@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4322c2f2-6a8c-4133-bcdc-d16758550493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/javaMd2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/javaMd2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/array/FileElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/array/FindMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/array/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/introduction/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/introduction/DayOfMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/introduction/VariableDateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/loop/DrawingMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/loop/GreateCommonFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/loop/InterestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaMd2/src/loop/IsPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency-converter/src/main/java/com/codegym/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayHello/src/main/java/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/HelloDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/src/main/java/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/src/main/java/Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/Hi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator/src/main/java/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/BmiCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-of-month/src/main/java/com/codegym/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year-caculator/src/main/java/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/LeapYearCaculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-equation-resolver/src/main/java/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/LinearEquationResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator-expression/src/main/java/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaMd2/src/introduction/OperatorExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-dateType/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +17,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Module2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Module2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,6 +34,10 @@
       <option name="presentableId" value="Default" />
       <updated>1683792420926</updated>
       <workItem from="1683792421910" duration="49000" />
+      <workItem from="1683792695449" duration="165000" />
+      <workItem from="1683792880538" duration="6000" />
+      <workItem from="1683792903706" duration="4000" />
+      <workItem from="1683792994420" duration="14000" />
     </task>
     <servers />
   </component>
