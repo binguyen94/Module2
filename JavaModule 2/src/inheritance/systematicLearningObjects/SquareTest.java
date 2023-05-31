@@ -9,5 +9,8 @@ public class SquareTest {
 
         square = new Square(5.8,"yellow",true);
         System.out.println(square);
+
+        square.setSide(5.5);
+        System.out.println(square.getSide());
     }
 }

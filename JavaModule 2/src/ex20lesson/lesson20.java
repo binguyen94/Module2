@@ -23,9 +23,11 @@ public class lesson20 {
             }
         } while (cols <= 0);
         int[][] matrix = new int[rows][cols];
+        int max = 30;
+        int min = 20;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                matrix[i][j] = (int) (Math.random() * 100 + 1);
+                matrix[i][j] = (int) Math.floor(Math.random() * (max - min + 1 )  + min);
             }
         }
         System.out.println("Ma trận đã khởi tạo: ");

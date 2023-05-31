@@ -1,6 +1,9 @@
 package inheritance.systematicLearningObjects;
 
-public class Square extends Rectangle{
+import abstractClassAndInterface.colorable.Colorable;
+import abstractClassAndInterface.resizeable.Resizeable;
+
+public class Square extends Rectangle implements Resizeable, Colorable{
     public Square(){
 
     }
@@ -14,8 +17,7 @@ public class Square extends Rectangle{
         return getWidth();
     }
     public void setSide(double side){
-        setWidth(side);
-        setLength(side);
+        super.setWidth(side);
     }
     @Override
     public void setWidth(double width){
@@ -27,7 +29,18 @@ public class Square extends Rectangle{
     }
     @Override
     public String toString(){
-        return "A Square with side=" + getSide() + ", which is a subclass of " + super.toString();
+        return "A Square with side=" + Math.ceil(getSide()*100)/100 + ", which is a subclass of " + super.toString();
+    }
+
+    @Override
+    public double getArea() {
+        return super.getArea();
+    }
+
+    @Override
+    public void howToColor() {
+        setColor("Color all four sides");
+        System.out.println(getColor());
     }
 }
 

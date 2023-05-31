@@ -1,6 +1,8 @@
 package inheritance.systematicLearningObjects;
 
-public class Rectangle extends Shape{
+import abstractClassAndInterface.resizeable.Resizeable;
+
+public class Rectangle extends Shape implements Resizeable {
     private double width = 1.0;
     private double length = 1.0;
     public Rectangle (){
@@ -39,7 +41,12 @@ public class Rectangle extends Shape{
     }
     @Override
     public String toString(){
-        return "A Rectangle with width= " + getWidth() +" and length= " + getLength() + ", which is a subclass of " + super.toString();
+        return "A Rectangle with width= " + Math.ceil(getWidth()*100)/100 +" and length= " + Math.ceil(getLength()*100)/100 + ", which is a subclass of " + super.toString();
     }
 
+    @Override
+    public void resize(double percent) {
+        setWidth(getWidth() * ( 1+ percent /100));
+        setLength(getLength() * (1 + percent / 100));
+    }
 }

@@ -2,7 +2,7 @@ package loop;
 
 import java.util.Scanner;
 
-import static learnJava.lesson9.isPrime;
+
 
 public class ShowFirst20Primes {
     public static void main(String[] args) {

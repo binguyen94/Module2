@@ -30,7 +30,7 @@ public class Shape {
     }
 
     public String toString() {
-        return "A Shape with color of" + this.color + "and" + (this.filled ? "filled" : "not Filled");
+        return "A Shape with color of " + this.color + " and" + (this.filled ? " filled" : " not Filled");
     }
 
 }
